@@ -1,0 +1,27 @@
+
+Tailwind CSS Installation:
+
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+npm run watch1
+  ==  npx tailwindcss -i ./assets/css/style.css -o ./src/css/style.css --watch
+
+
+
+npm install -g live-server
+
+npm run server1
+  ==  live-server ./src
+
+
+
+
+
+
+
+
+
+
+
